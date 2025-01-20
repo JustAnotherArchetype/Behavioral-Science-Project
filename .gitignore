@@ -105,6 +105,8 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+# Exclude data
+data/
 # Exclude __pycache__ :
 __pycache__/
 # Exclude .gitignore:
